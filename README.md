@@ -1,5 +1,5 @@
 The code calculates the percentage of plants that will be pollinated by different mating systems 
-- either xenogamous vs. geitonogamous; or in the second case geitonogamous + autogamous vs. xenogamous
+either xenogamous vs. geitonogamous; or in the second case geitonogamous + autogamous vs. xenogamous
 The input parameters are the number of plants in population; number of flowers that pollinator visits on one plant;
 the initial probability; the probability that pollinator species is in contact with anthers on the flower.
 
